@@ -3,4 +3,4 @@ def greetings(name):
 
 
 if __name__ == '__main__':
-    greetings('guys')
+    greetings('Guys')
